@@ -1,2 +1,1 @@
-# Smit-registration-Chatbot
- smit-registration-chatbot.netlify.app
+# smit-registration-chatbot.netlify.app
